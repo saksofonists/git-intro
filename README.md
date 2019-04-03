@@ -1,2 +1,2 @@
 # git-intro
-Template Repository for git introductory lesson
+Tom's Repository for git mastery. Cats are awesome.
